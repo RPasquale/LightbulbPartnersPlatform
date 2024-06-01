@@ -1,0 +1,5 @@
+Flask==2.0.1
+#torch
+#torchvision
+#torchaudio
+# Add other dependencies as needed
